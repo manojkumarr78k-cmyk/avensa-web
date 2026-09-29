@@ -1,0 +1,25 @@
+{
+  "title": "Estimated Annual Cost-Benefit Analysis",
+  "basis": "Approximate small-scale production estimate",
+  "working_days_per_year": 300,
+
+  "manual_process": {
+    "daily_labour_cost": 600,
+    "annual_labour_cost": 180000
+  },
+
+  "prototype_process": {
+    "daily_operating_cost": 250,
+    "annual_operating_cost": 75000,
+    "prototype_initial_cost": 10000
+  },
+
+  "financial_impact": {
+    "annual_cost_saving": 105000,
+    "net_first_year_benefit": 95000,
+    "labour_cost_reduction_percentage": 58.33,
+    "estimated_payback_period_months": 1.14
+  },
+
+  "disclaimer": "Estimated values for small-scale operation; actual savings may vary based on production volume, labour cost and operating conditions."
+}
